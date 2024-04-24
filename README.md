@@ -1,4 +1,4 @@
-# Bootcamp Java Básico - Banco Santander
+# Bootcamp - Banco Santander
 
 Este repositório contém os desafios e projetos desenvolvidos durante o bootcamp, oferecido pelo Banco Santander em parceria com a Digital Innovation One (DIO).
 
