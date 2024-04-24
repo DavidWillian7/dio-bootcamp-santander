@@ -43,7 +43,6 @@ Para resolver o desafio proposto, criei o projeto `ContaBanco` e implementei a f
     - Após a inserção de todos os dados, uma mensagem de agradecimento com os detalhes da conta foi exibida ao usuário.
 
 3. **Captura de Tela:**
-    - Como evidência da execução bem-sucedida do programa, incluí uma captura de tela (`chamada_de_terminal.jpg`) demonstrando o programa em funcionamento.
 
 Com essa abordagem, o programa permite ao usuário inserir os dados da conta bancária de forma interativa e exibe uma mensagem personalizada de agradecimento com os detalhes da conta.
 
