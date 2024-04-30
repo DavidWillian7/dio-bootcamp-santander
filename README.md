@@ -12,6 +12,12 @@ O desafio "Simulando Uma Conta Bancária Através Do Terminal/Console" consiste 
 
 [Leia mais sobre o desafio e minha solução](ContaBanco/README.md)
 
+### Controle de Fluxo
+
+O desafio "Controle de Fluxo" consiste em criar um programa Java que recebe dois parâmetros via terminal que representam dois números inteiros. Com esses números, o programa calculará a diferença entre eles e imprimirá no console os números incrementados até atingir essa diferença. Se o primeiro parâmetro for maior que o segundo, o programa lançará uma exceção customizada chamada `ParametrosInvalidosException`.
+
+[Leia mais sobre o desafio e minha solução](DesafioControleFluxo/README.md)
+
 ## Projetos
 
 Além dos desafios, este repositório também pode conter projetos desenvolvidos durante o bootcamp. Os projetos são implementações mais elaboradas que visam aplicar os conceitos aprendidos em situações mais complexas.
