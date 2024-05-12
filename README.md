@@ -18,6 +18,12 @@ O desafio "Controle de Fluxo" consiste em criar um programa Java que recebe dois
 
 [Leia mais sobre o desafio e minha solução](DesafioControleFluxo/README.md)
 
+### Diagramação de Classes do iPhone
+
+O desafio "Diagramação de Classes do iPhone" consiste em fazer a modelagem e diagramação da representação em UML e fazer o código com a implementação do diagrama.
+
+[Leia mais sobre o desafio e minha solução](DesafioDiagramacaoClassesIphone/Iphone/README.md)
+
 ## Projetos
 
 Além dos desafios, este repositório também pode conter projetos desenvolvidos durante o bootcamp. Os projetos são implementações mais elaboradas que visam aplicar os conceitos aprendidos em situações mais complexas.
